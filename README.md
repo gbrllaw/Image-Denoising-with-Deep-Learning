@@ -1,4 +1,3 @@
-# Image-Denoising-with-Deep-Learning
 # 🖼️ Image Denoising with Deep Learning
 
 A deep learning project that removes noise from images using convolutional neural networks (CNNs).  
